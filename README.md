@@ -1,5 +1,4 @@
 # Pizza Order Project
-This project is made for the Global AI Hub organization.
 
 ![logo_quality_min](https://user-images.githubusercontent.com/99405897/222897169-210c8925-5c82-4207-91ce-894e02166540.png)
 
